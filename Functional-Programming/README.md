@@ -2,7 +2,7 @@
 本教程旨在帮助面向对象程序员能够理解函数式编程中的概念。
 
 ### 第一节
-[在bilibili观看]()
+[在bilibili观看](https://www.bilibili.com/video/BV1de411W7pP/)
 #### 基本内容
 * F#基本语法
 * 第一类函数
