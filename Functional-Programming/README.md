@@ -12,3 +12,16 @@
 * 列表
 * [HTML生成器](Chapter%201%20-%20HTMLGenerator.fs)
 
+### 第二节
+[在bilibili观看](https://www.bilibili.com/video/BV1Bz411B7c6/)
+##### 基本内容
+* 模式
+* 模式匹配
+* lambda表达式
+* 泛型
+* Option
+* List
+* Result
+* 常见组合子 (map, filter, bind, reduce, fold, unfold)
+* 饥饿求值语言中副作用的常用抽离方式
+* 懒惰求值与饥饿求值
